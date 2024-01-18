@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "A Smarter Way to Learn JavaScript",
+    "author": "Mark Myers",
+    "price": "19.95",
+    "rating": 4,
+    "imageUrl": "https://m.media-amazon.com/images/I/615kVP9zG1L._SL1360_.jpg",
+    "published": "March 20, 2014",
+    "isFavourite": false
+  },
+  {
+    "id": 2,
+    "name": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "price": "21.99",
+    "rating": 5,
+    "imageUrl": "https://m.media-amazon.com/images/I/81HqVRRwp3L._SL1500_.jpg",
+    "published": "December 4, 2018",
+    "isFavourite": true
+  },
+  {
+    "id": 3,
+    "name": "Python Programming Language",
+    "author": "Berajah Jayne",
+    "price": "23.99",
+    "rating": 5,
+    "imageUrl": "https://m.media-amazon.com/images/I/711x9iHSu3L._SY425_.jpg",
+    "published": "May 1, 2019",
+    "isFavourite": false
+  },
+  {
+    "id": 4,
+    "name": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+    "author": "Cory Althoff",
+    "price": "16.98",
+    "rating": 4,
+    "imageUrl": "https://m.media-amazon.com/images/I/51+Z8QVq+WL._SL1360_.jpg",
+    "published": "January 24, 2017",
+    "isFavourite": false
+  },
+  {
+    "id": 5,
+    "name": "Game Programming Patterns",
+    "author": "Robert Nystrom",
+    "price": "34.48",
+    "rating": 3,
+    "imageUrl": "https://m.media-amazon.com/images/I/61efrLvvaxL._SL1360_.jpg",
+    "published": "November 2, 2014",
+    "isFavourite": false
+  },
+  {
+    "id": 6,
+    "name": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+    "author": "Max Tegmark",
+    "price": "17.08",
+    "rating": 5,
+    "imageUrl": "https://m.media-amazon.com/images/I/41LErrZpDHL.jpg",
+    "published": "August 29, 2017",
+    "isFavourite": true
+  },
+  {
+    "id": 7,
+    "name": "AI 2041: Ten Visions for Our Future",
+    "author": "Kai-Fu Lee",
+    "price": "43.18",
+    "rating": 4,
+    "imageUrl": "https://m.media-amazon.com/images/I/31V+H-Bpy0L.jpg",
+    "published": "September 14, 2021",
+    "isFavourite": false
+  },
+  {
+    "id": 8,
+    "name": "Elon Musk",
+    "author": "Walter Isaacson",
+    "price": "49.75",
+    "rating": 4,
+    "imageUrl": "https://m.media-amazon.com/images/I/519diyDo0ML.jpg",
+    "published": "September 12, 2023",
+    "isFavourite": false
+  }
+]
